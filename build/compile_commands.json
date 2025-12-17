@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/blinex/Valgrind_exercise/build/libs/lib1",
+  "command": "/usr/bin/c++  -I/home/blinex/Valgrind_exercise/src/libs/lib1/.  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/myLib1.dir/src.cpp.o -c /home/blinex/Valgrind_exercise/src/libs/lib1/src.cpp",
+  "file": "/home/blinex/Valgrind_exercise/src/libs/lib1/src.cpp"
+},
+{
+  "directory": "/home/blinex/Valgrind_exercise/build/libs/lib2",
+  "command": "/usr/bin/c++  -I/home/blinex/Valgrind_exercise/src/libs/lib2/.  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/myLib2.dir/src.cpp.o -c /home/blinex/Valgrind_exercise/src/libs/lib2/src.cpp",
+  "file": "/home/blinex/Valgrind_exercise/src/libs/lib2/src.cpp"
+},
+{
+  "directory": "/home/blinex/Valgrind_exercise/build/app",
+  "command": "/usr/bin/c++  -I/home/blinex/Valgrind_exercise/src/include -I/home/blinex/Valgrind_exercise/src/libs/lib1/. -I/home/blinex/Valgrind_exercise/src/libs/lib2/.  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/shell-app.dir/main.cpp.o -c /home/blinex/Valgrind_exercise/src/app/main.cpp",
+  "file": "/home/blinex/Valgrind_exercise/src/app/main.cpp"
+},
+{
+  "directory": "/home/blinex/Valgrind_exercise/build/test",
+  "command": "/usr/bin/c++  -I/home/blinex/Valgrind_exercise/src/include -I/home/blinex/Valgrind_exercise/src/libs/lib1/. -I/home/blinex/Valgrind_exercise/src/libs/lib2/. -isystem /home/blinex/Valgrind_exercise/build/_deps/googletest-src/googletest/include -isystem /home/blinex/Valgrind_exercise/build/_deps/googletest-src/googletest  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/cpp-test.dir/main.cpp.o -c /home/blinex/Valgrind_exercise/src/test/main.cpp",
+  "file": "/home/blinex/Valgrind_exercise/src/test/main.cpp"
+},
+{
+  "directory": "/home/blinex/Valgrind_exercise/build/test",
+  "command": "/usr/bin/c++  -I/home/blinex/Valgrind_exercise/src/include -I/home/blinex/Valgrind_exercise/src/libs/lib1/. -I/home/blinex/Valgrind_exercise/src/libs/lib2/. -isystem /home/blinex/Valgrind_exercise/build/_deps/googletest-src/googletest/include -isystem /home/blinex/Valgrind_exercise/build/_deps/googletest-src/googletest  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/cpp-test.dir/test.cpp.o -c /home/blinex/Valgrind_exercise/src/test/test.cpp",
+  "file": "/home/blinex/Valgrind_exercise/src/test/test.cpp"
+}
+]

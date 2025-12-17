@@ -1,1 +1,0 @@
-# Valgrind_exercise
